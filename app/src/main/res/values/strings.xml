@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">MyDesignTest</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="user_name">username</string>
+    <string name="password">password</string>
+    <string name="log_in">Log in</string>
+    <string name="title_activity_main">MVP Example</string>
+    <string name="username_error">Username cannot be empty</string>
+    <string name="password_error">Password cannot be empty</string>
+    <string name="title_activity_header_and_footer_use">HeaderAndFooterUseActivity</string>
+    <string name="error"> 未知错误!</string>
+    <string name="network_err">Error:网络或未知错误</string>
+    <string name="empty_network_error">网络错误,点击重试</string>
+    <string name="empty_no_data">暂无数据,点击重试</string>
+</resources>
